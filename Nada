@@ -1,0 +1,13 @@
+[1mdiff --git a/app/src/main/res/layout/activity_main.xml b/app/src/main/res/layout/activity_main.xml[m
+[1mindex 2e78dea..4718f86 100644[m
+[1m--- a/app/src/main/res/layout/activity_main.xml[m
+[1m+++ b/app/src/main/res/layout/activity_main.xml[m
+[36m@@ -10,7 +10,7 @@[m
+     <TextView[m
+         android:layout_width="wrap_content"[m
+         android:layout_height="wrap_content"[m
+[31m-        android:text="Hola Wachos!"[m
+[32m+[m[32m        android:text="Hola Gente como están todo bien!"[m
+         app:layout_constraintBottom_toBottomOf="parent"[m
+         app:layout_constraintEnd_toEndOf="parent"[m
+         app:layout_constraintStart_toStartOf="parent"[m
